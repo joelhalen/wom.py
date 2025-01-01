@@ -327,3 +327,4 @@ class Country(BaseEnum):
     Za = "ZA"
     Zm = "ZM"
     Zw = "ZW"
+    GB_Sct = "GB-SCT"
